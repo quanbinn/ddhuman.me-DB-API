@@ -10,7 +10,7 @@
 
 ## 用户系统
 
-- [功能2](/chapters/用户系统/功能2.md)
+- [createUser](/chapters/用户系统/createUser.md)
 
 ## 内容系统
 
