@@ -8,6 +8,7 @@
 - [find((query))](/chapters/数据库操作/find((query)).md)
 - [update((query),(update))](/chapters/数据库操作/update((query),(update)).md)
 - [remove((query))](/chapters/数据库操作/remove((query)).md)
+- [ObjectId](/chapters/数据库操作/ObjectId.md)
 
 ## 广告系统
 - [功能3](/chapters/广告系统/功能3.md)	
