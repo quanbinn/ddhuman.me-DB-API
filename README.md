@@ -6,7 +6,7 @@
 - [drop a database](/chapters/数据库操作/drop-a-database.md)
 - [insert(document)](/chapters/数据库操作/insert(document).md)
 - [find((query))](/chapters/数据库操作/find((query)).md)
-- [update((query),(update)](/chapters/数据库操作/update((query),(update)).md)
+- [update((query),(update))](/chapters/数据库操作/update((query),(update)).md)
 - [remove((query))](/chapters/数据库操作/remove((query)).md)
 
 ## 广告系统
