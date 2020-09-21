@@ -1,4 +1,4 @@
-# update((query),(update)
+# update((query),(update))
 
 ```javascript
 use <db>
