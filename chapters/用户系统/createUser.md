@@ -14,3 +14,7 @@ function createUser(username, password) {
 }
 ```
 
+## Reference
+
+1. [Accounts.createUser(options, [callback])](https://docs.meteor.com/api/passwords.html#Accounts-createUser)
+2. [Adding user accounts](https://www.meteor.com/tutorials/blaze/adding-user-accounts)
