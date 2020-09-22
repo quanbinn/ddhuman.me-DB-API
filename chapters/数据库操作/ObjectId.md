@@ -1,7 +1,7 @@
 # ObjectId
 
 ```javascript
-let x = ObjectId();
+x = ObjectId();
 // ObjectId("507f1f77bcf86cd799439011")
 // ObjectId("507f191e810c19729de860ea").str
 // 507f191e810c19729de860ea
