@@ -6,13 +6,22 @@
 	- [create a database](/chapters/数据库操作/create-a-database.md)
 	- [drop a database](/chapters/数据库操作/drop-a-database.md)
 - Collections
-- CRUD
+	- [create a collection](/chapters/数据库操作/create-a-collection.md)
+	- [drop a collection](/chapters/数据库操作/drop-a-collection.md)
+- [**CRUD**]Documents
 	- [insert(document)](/chapters/数据库操作/insert(document).md)
 	- [find((query))](/chapters/数据库操作/find((query)).md)
 	- [update((query),(update))](/chapters/数据库操作/update((query),(update)).md)
 	- [remove((query))](/chapters/数据库操作/remove((query)).md)
 - Shell Methods
 	- [ObjectId](/chapters/数据库操作/ObjectId.md)
+
+## 典型Documents(文档)
+- [1个互联网用户](/chapters/用户系统/1个互联网用户.md)
+- [1个学习用品](/chapters/用户系统/1个学习用品.md)
+- [1篇实验文章](/chapters/用户系统/1篇实验文章.md)
+- [1个演示视频](/chapters/用户系统/1个演示视频.md)
+- [1个演示音频](/chapters/用户系统/1个演示音频.md)
 
 ## 广告系统
 - [功能3](/chapters/广告系统/功能3.md)	
