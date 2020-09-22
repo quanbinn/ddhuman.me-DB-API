@@ -16,11 +16,10 @@
 	- [remove((query))](/chapters/数据库操作/remove((query)).md)
 - Shell Methods
 	- [ObjectId](/chapters/数据库操作/ObjectId.md)
-- **Image/Multimedia/Graphics**
+- **Image/Multimedia**
 	- [Image](/chapters/数据库操作/Image.md)
 	- [Video](/chapters/数据库操作/Video.md)
 	- [Audio](/chapters/数据库操作/Audio.md)
-	- [Canvas](/chapters/数据库操作/Canvas.md)
 
 ## 典型Documents
 - [1个互联网用户](/chapters/用户系统/1个互联网用户.md)
