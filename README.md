@@ -11,12 +11,11 @@
 	- [find((query))](/chapters/数据库操作/find((query)).md)
 	- [update((query),(update))](/chapters/数据库操作/update((query),(update)).md)
 	- [remove((query))](/chapters/数据库操作/remove((query)).md)
-- mongo Shell Methods
+- Shell Methods
 	- [ObjectId](/chapters/数据库操作/ObjectId.md)
 
 ## 广告系统
 - [功能3](/chapters/广告系统/功能3.md)	
-- [功能3](/chapters/广告系统/功能3.md)
 
 ## 用户系统
 
@@ -24,8 +23,6 @@
 
 ## 内容系统
 
-- [功能2](/chapters/内容系统/功能2.md)
-- [功能2](/chapters/内容系统/功能2.md)
 - [功能2](/chapters/内容系统/功能2.md)
 
 ## 站内搜索
