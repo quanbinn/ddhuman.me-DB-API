@@ -1,5 +1,20 @@
 # DDHuman.me API
 
+## 典型Documents
+
+- 互联网用户
+	- [普通用户](/chapters/用户系统/普通用户.md)
+	- [商家用户](/chapters/用户系统/商家用户.md)	
+- 文本
+	- [实验文章](/chapters/用户系统/实验文章.md)
+- 实体物品
+	- [学习用品](/chapters/用户系统/学习用品.md)
+	- [工作用品](/chapters/用户系统/工作用品.md)
+	- [锻炼用品](/chapters/用户系统/锻炼用品.md)
+- **Multimedia**
+	- [演示视频](/chapters/用户系统/演示视频.md)
+	- [演示音频](/chapters/用户系统/演示音频.md)
+
 ## 数据库操作
 
 - Databases
@@ -21,19 +36,13 @@
 	- [Video](/chapters/数据库操作/Video.md)
 	- [Audio](/chapters/数据库操作/Audio.md)
 
-## 典型Documents
-- [1个互联网用户](/chapters/用户系统/1个互联网用户.md)
-- [1个学习用品](/chapters/用户系统/1个学习用品.md)
-- [1篇实验文章](/chapters/用户系统/1篇实验文章.md)
-- [1个演示视频](/chapters/用户系统/1个演示视频.md)
-- [1个演示音频](/chapters/用户系统/1个演示音频.md)
-
-## 广告系统
-- [功能3](/chapters/广告系统/功能3.md)	
-
 ## 用户系统
 
 - [createUser](/chapters/用户系统/createUser.md)
+
+## 广告系统
+
+- [功能3](/chapters/广告系统/功能3.md)	
 
 ## 内容系统
 
