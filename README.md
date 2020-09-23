@@ -3,17 +3,17 @@
 ## 典型Documents
 
 - 互联网用户
-	- [普通用户](/chapters/用户系统/普通用户.md)
-	- [商家用户](/chapters/用户系统/商家用户.md)	
+	- [普通用户](/chapters/典型Documents/普通用户.md)
+	- [商家用户](/chapters/典型Documents/商家用户.md)	
 - 文本
-	- [实验文章](/chapters/用户系统/实验文章.md)
+	- [实验文章](/chapters/典型Documents/实验文章.md)
 - 实体物品
-	- [学习用品](/chapters/用户系统/学习用品.md)
-	- [工作用品](/chapters/用户系统/工作用品.md)
-	- [锻炼用品](/chapters/用户系统/锻炼用品.md)
+	- [学习用品](/chapters/典型Documents/学习用品.md)
+	- [工作用品](/chapters/典型Documents/工作用品.md)
+	- [锻炼用品](/chapters/典型Documents/锻炼用品.md)
 - **Multimedia**
-	- [演示视频](/chapters/用户系统/演示视频.md)
-	- [演示音频](/chapters/用户系统/演示音频.md)
+	- [演示视频](/chapters/典型Documents/演示视频.md)
+	- [演示音频](/chapters/典型Documents/演示音频.md)
 
 ## 数据库操作
 
@@ -36,26 +36,20 @@
 	- [Video](/chapters/数据库操作/Video.md)
 	- [Audio](/chapters/数据库操作/Audio.md)
 
-## 用户系统
+## 对用户Documents的CRUD
+- [createUser](/chapters/对用户Documents的CRUD/createUser.md)
 
-- [createUser](/chapters/用户系统/createUser.md)
+## 对广告Documents的CRUD
+- [功能3](/chapters/对广告Documents的CRUD/功能3.md)	
 
-## 广告系统
-
-- [功能3](/chapters/广告系统/功能3.md)	
-
-## 内容系统
-
-- [功能2](/chapters/内容系统/功能2.md)
+## 对内容Documents的CRUD
+- [功能2](/chapters/对内容Documents的CRUD/功能2.md)
 
 ## 站内搜索
-
 - [功能3](/chapters/站内搜索/功能3.md)
 
 ## 推荐系统
-
 - [功能3](/chapters/推荐搜索/功能3.md)
 
 ## 常用页面
-
 - [首页](/chapters/常用页面/首页.md)
