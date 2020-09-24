@@ -7,7 +7,7 @@ function createUser(username, password) {
 	} else {
 		db.users.insert({
 			username: username;
-			password: password;
+			password: MD5(password);
 			createdAt: new Date();
 		})
 	}
@@ -18,3 +18,4 @@ function createUser(username, password) {
 
 1. [Accounts.createUser(options, [callback])](https://docs.meteor.com/api/passwords.html#Accounts-createUser)
 2. [Adding user accounts](https://www.meteor.com/tutorials/blaze/adding-user-accounts)
+3. [String Hash Calculator](https://cryptotools.net/hash)
