@@ -4,6 +4,7 @@
 use <db>
 show collections
 db.mycollection.drop()
+
 // use ddhumanMe
 // show collections  ->users
 // db.users.drop()
