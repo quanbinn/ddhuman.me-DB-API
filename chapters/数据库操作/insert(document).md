@@ -3,7 +3,7 @@
 ```javascript
 use <db>
 db.collection.insertOne({})
-db.collection.insertOne([{},{},{}])
+db.collection.insertMany([{},{},{}])
 ```
 
 ```javascript
@@ -18,7 +18,8 @@ ddhumanMe.users.insertOne({
 ```
 
 ```javascript
-db.collection.insertOne({
+use ddhumanMe
+ddhumanMe.goods.insertMany({
   name: 'A2标准坐标纸',
   showImage: '/images/goods/A2标准坐标纸.png',
   buyUrl：{
