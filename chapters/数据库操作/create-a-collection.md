@@ -3,6 +3,7 @@
 ```javascript
 use <db>
 db.createCollection(name)
+
 // use ddhumanMe
 
 // db.createCollection("users")
