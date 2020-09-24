@@ -4,7 +4,15 @@
 use <db>
 db.createCollection(name)
 // use ddhumanMe
+
 // db.createCollection("users")
+// db.createCollection("commercialusers")
+
+// db.createCollection("experiments")
+// db.createCollection("goods")
+
+// db.createCollection("videos")
+// db.createCollection("audios")
 ```
 
 ## Reference
