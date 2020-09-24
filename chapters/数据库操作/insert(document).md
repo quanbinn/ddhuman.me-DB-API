@@ -5,7 +5,6 @@ use <db>
 db.collection.insertOne({})
 db.collection.insertOne([{},{},{}])
 ```
----
 
 ```javascript
 use ddhumanMe
@@ -17,7 +16,6 @@ ddhumanMe.users.insertOne({
   cellphone: { number: '180****6666', verified: false }
 })
 ```
----
 
 ```javascript
 db.collection.insertOne({
