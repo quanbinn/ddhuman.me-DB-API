@@ -4,8 +4,7 @@
 use <db>
 db.collection.insertOne({})
 db.collection.insertOne([{},{},{}])
-
----
+_________________
 
 use ddhumanMe
 ddhumanMe.users.insertOne({
@@ -15,8 +14,7 @@ ddhumanMe.users.insertOne({
   createdAt: 'Wed Sep 23 2020 17:22:29 GMT+0800 (中国标准时间)', // new Date()
   cellphone: { number: '180****6666', verified: false }
 })
-
----
+_________________
 
 db.collection.insertOne({
   name: 'A2标准坐标纸',
