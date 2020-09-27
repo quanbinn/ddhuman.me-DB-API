@@ -1,19 +1,21 @@
 # DDHuman.me API
 
-| Project | Status | Description |
-|---------|--------|-------------|
-| [vue-router]          |  | [vue-router1] |
-
-[vue-router]: https://github.com/vuejs/vue-router
-[vue-router1]: /chapters/典型Documents/普通用户.md
-
 ## 典型Documents
 
 | 互联网用户 | 文本 | 实体物品 | **Multimedia** |
 |---------|--------|---------|--------|
-|[普通用户](/chapters/典型Documents/普通用户.md)|[实验文章](/chapters/典型Documents/实验文章.md)|[学习用品](/chapters/典型Documents/学习用品.md)|[演示视频](/chapters/典型Documents/演示视频.md)|
-|[商家用户](/chapters/典型Documents/商家用户.md)||[工作用品](/chapters/典型Documents/工作用品.md)|[演示音频](/chapters/典型Documents/演示音频.md)|
-|||[锻炼用品](/chapters/典型Documents/锻炼用品.md)|
+|[普通用户]|[实验文章]|[学习用品]|[演示视频]|
+|[商家用户]|         |[工作用品]|[演示音频]|
+|    	  |         |[锻炼用品]|         |
+
+[普通用户]: /chapters/典型Documents/普通用户.md
+[商家用户]: /chapters/典型Documents/商家用户.md
+[实验文章]: /chapters/典型Documents/实验文章.md
+[学习用品]: /chapters/典型Documents/学习用品.md
+[工作用品]: /chapters/典型Documents/工作用品.md
+[锻炼用品]: /chapters/典型Documents/锻炼用品.md
+[演示视频]: /chapters/典型Documents/演示视频.md
+[演示音频]: /chapters/典型Documents/演示音频.md
 
 ## 数据库操作
 
