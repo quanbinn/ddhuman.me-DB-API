@@ -40,32 +40,32 @@
 - CREATE
   - [createUser](/chapters/对用户的CRUD/createUser.md)
 - READ
-  - [loggingIn](/chapters/对用户Documents的CRUD/loggingIn.md)
-  - [logout](/chapters/对用户Documents的CRUD/logout.md)
-  - [findUserByUsername](/chapters/对用户Documents的CRUD/findUserByUsername.md)
-  - [findUserByPhonenumber](/chapters/对用户Documents的CRUD/findUserByPhonenumber.md)
+  - [loggingIn](/chapters/对用户的CRUD/loggingIn.md)
+  - [logout](/chapters/对用户的CRUD/logout.md)
+  - [findUserByUsername](/chapters/对用户的CRUD/findUserByUsername.md)
+  - [findUserByPhonenumber](/chapters/对用户的CRUD/findUserByPhonenumber.md)
 - UPDATE
   - Password
-    - [changePassword](/chapters/对用户Documents的CRUD/changePassword.md)
-    - [forgotPassword](/chapters/对用户Documents的CRUD/forgotPassword.md)
-    - [resetPassword](/chapters/对用户Documents的CRUD/resetPassword.md)
-    - [setPassword](/chapters/对用户Documents的CRUD/setPassword.md)
-    - [setPassword](/chapters/对用户Documents的CRUD/setPassword.md)
-    - [sendResetPasswordEmail](/chapters/对用户Documents的CRUD/sendResetPasswordEmail.md)
+    - [changePassword](/chapters/对用户的CRUD/changePassword.md)
+    - [forgotPassword](/chapters/对用户的CRUD/forgotPassword.md)
+    - [resetPassword](/chapters/对用户的CRUD/resetPassword.md)
+    - [setPassword](/chapters/对用户的CRUD/setPassword.md)
+    - [setPassword](/chapters/对用户的CRUD/setPassword.md)
+    - [sendResetPasswordEmail](/chapters/对用户的CRUD/sendResetPasswordEmail.md)
   - Cellphone
-    - [addCellphone](/chapters/对用户Documents的CRUD/addCellphone.md)
-    - [verifyPhonenumber](/chapters/对用户Documents的CRUD/verifyPhonenumbere.md)
+    - [addCellphone](/chapters/对用户的CRUD/addCellphone.md)
+    - [verifyPhonenumber](/chapters/对用户的CRUD/verifyPhonenumber.md)
 
 ## 对广告的CRUD
 - CREATE
-  - [功能3](/chapters/对广告Documents的CRUD/功能3.md)
+  - [功能3](/chapters/对广告的CRUD/功能3.md)
 - READ
 - UPDATE
 - DELETE
 
 ## 对内容的CRUD
 - CREATE
-  - [功能2](/chapters/对内容Documents的CRUD/功能2.md)
+  - [功能2](/chapters/对内容的CRUD/功能2.md)
 - READ
 - UPDATE
 - DELETE
