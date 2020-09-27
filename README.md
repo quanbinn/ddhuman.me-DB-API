@@ -45,11 +45,20 @@
   - [findUserByUsername](/chapters/对用户的CRUD/findUserByUsername.md)
   - [findUserByPhonenumber](/chapters/对用户的CRUD/findUserByPhonenumber.md)
 - UPDATE
+
+| Password | Cellphone | 
+|---------|--------|
+|[changePassword](/chapters/对用户的CRUD/changePassword.md)|[addCellphone](/chapters/对用户的CRUD/addCellphone.md)|
+|[forgotPassword](/chapters/对用户的CRUD/forgotPassword.md)|[verifyPhonenumber](/chapters/对用户的CRUD/verifyPhonenumber.md)|
+|[resetPassword](/chapters/对用户的CRUD/resetPassword.md)|--------|
+|[setPassword](/chapters/对用户的CRUD/setPassword.md)|--------|
+|[sendResetPasswordEmail](/chapters/对用户的CRUD/sendResetPasswordEmail.md)|--------|
+
+
   - Password
     - [changePassword](/chapters/对用户的CRUD/changePassword.md)
     - [forgotPassword](/chapters/对用户的CRUD/forgotPassword.md)
     - [resetPassword](/chapters/对用户的CRUD/resetPassword.md)
-    - [setPassword](/chapters/对用户的CRUD/setPassword.md)
     - [setPassword](/chapters/对用户的CRUD/setPassword.md)
     - [sendResetPasswordEmail](/chapters/对用户的CRUD/sendResetPasswordEmail.md)
   - Cellphone
