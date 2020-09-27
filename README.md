@@ -17,24 +17,19 @@
 
 ## 数据库操作
 
-- Databases
-	- [create a database](/chapters/数据库操作/create-a-database.md)
-	- [drop a database](/chapters/数据库操作/drop-a-database.md)
-- Collections
-	- [create a collection](/chapters/数据库操作/create-a-collection.md)
-	- [drop a collection](/chapters/数据库操作/drop-a-collection.md)
-- [**CRUD**]Documents
-	- [JSON->BSON](/chapters/数据库操作/JSON-BSON.md)
-	- [insert(document)](/chapters/数据库操作/insert(document).md)
-	- [find((query))](/chapters/数据库操作/find((query)).md)
-	- [update((query),(update))](/chapters/数据库操作/update((query),(update)).md)
-	- [remove((query))](/chapters/数据库操作/remove((query)).md)
-- Shell Methods
-	- [ObjectId](/chapters/数据库操作/ObjectId.md)
-- **Image/Multimedia**
-	- [Image](/chapters/数据库操作/Image.md)
-	- [Video](/chapters/数据库操作/Video.md)
-	- [Audio](/chapters/数据库操作/Audio.md)
+| Databases | Collections | **CRUD** | 
+|---------|--------|--------|
+|[create a database](/chapters/数据库操作/create-a-database.md)|[create a collection](/chapters/数据库操作/create-a-collection.md)|[JSON->BSON](/chapters/数据库操作/JSON-BSON.md)|
+|[drop a database](/chapters/数据库操作/drop-a-database.md)|[drop a collection](/chapters/数据库操作/drop-a-collection.md)|[insert(document)](/chapters/数据库操作/insert(document).md)|
+|||[find((query))](/chapters/数据库操作/find((query)).md)|
+|||[update((query),(update))](/chapters/数据库操作/update((query),(update)).md)|
+|||[remove((query))](/chapters/数据库操作/remove((query)).md)|
+
+| Shell Methods | **Image/Multimedia** | 
+|---------|--------|
+|[ObjectId](/chapters/数据库操作/ObjectId.md)|[Image](/chapters/数据库操作/Image.md)|
+||[Video](/chapters/数据库操作/Video.md)|
+||[Audio](/chapters/数据库操作/Audio.md)|
 
 ## 对用户的CRUD
 - CREATE
@@ -53,17 +48,6 @@
 |[resetPassword](/chapters/对用户的CRUD/resetPassword.md)||
 |[setPassword](/chapters/对用户的CRUD/setPassword.md)||
 |[sendResetPasswordEmail](/chapters/对用户的CRUD/sendResetPasswordEmail.md)||
-
-
-  - Password
-    - [changePassword](/chapters/对用户的CRUD/changePassword.md)
-    - [forgotPassword](/chapters/对用户的CRUD/forgotPassword.md)
-    - [resetPassword](/chapters/对用户的CRUD/resetPassword.md)
-    - [setPassword](/chapters/对用户的CRUD/setPassword.md)
-    - [sendResetPasswordEmail](/chapters/对用户的CRUD/sendResetPasswordEmail.md)
-  - Cellphone
-    - [addCellphone](/chapters/对用户的CRUD/addCellphone.md)
-    - [verifyPhonenumber](/chapters/对用户的CRUD/verifyPhonenumber.md)
 
 ## 对广告的CRUD
 - CREATE
