@@ -5,7 +5,7 @@
 | [vue-router]          |  | [vue-router1] |
 
 [vue-router]: https://github.com/vuejs/vue-router
-[vue-router1]: /chapters/典型Documents/普通用户.md)
+[vue-router1]: /chapters/典型Documents/普通用户.md
 
 ## 典型Documents
 
