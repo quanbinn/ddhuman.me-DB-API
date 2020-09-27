@@ -50,9 +50,9 @@
 |---------|--------|
 |[changePassword](/chapters/对用户的CRUD/changePassword.md)|[addCellphone](/chapters/对用户的CRUD/addCellphone.md)|
 |[forgotPassword](/chapters/对用户的CRUD/forgotPassword.md)|[verifyPhonenumber](/chapters/对用户的CRUD/verifyPhonenumber.md)|
-|[resetPassword](/chapters/对用户的CRUD/resetPassword.md)|--------|
-|[setPassword](/chapters/对用户的CRUD/setPassword.md)|--------|
-|[sendResetPasswordEmail](/chapters/对用户的CRUD/sendResetPasswordEmail.md)|--------|
+|[resetPassword](/chapters/对用户的CRUD/resetPassword.md)||
+|[setPassword](/chapters/对用户的CRUD/setPassword.md)||
+|[sendResetPasswordEmail](/chapters/对用户的CRUD/sendResetPasswordEmail.md)||
 
 
   - Password
