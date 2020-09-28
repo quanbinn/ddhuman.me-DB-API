@@ -3,7 +3,7 @@
 ## 典型Documents
 
 | 互联网用户 | 文本 | 实体物品 | **Multimedia** |
-|---------|--------|---------|--------|
+|:-------:|:-------:|:-------:|:-------:|
 |[普通用户]|[实验文章]|[学习用品]|[演示视频]|
 |[商家用户]|         |[工作用品]|[演示音频]|
 |    	  |         |[锻炼用品]|         |
@@ -92,7 +92,7 @@
 ## 对广告的CRUD
 
 | **C** | **R** | **U** | **D** |
-|---------|--------|---------|--------|
+|:-------:|:-------:|:-------:|:-------:|
 |[createAdvertisement]|[findAdvertisementById]|[editAdvertisement]|[deleteAdvertisement]|
 
 [createAdvertisement]: /chapters/对广告的CRUD/createAdvertisement.md
@@ -105,7 +105,7 @@
 - Experiment
 
 | **C** | **R** | **U** | **D** |
-|---------|--------|---------|--------|
+|:-------:|:-------:|:-------:|:-------:|
 |[createExperiment]|[findExperimentById]|[editExperiment]|[deleteExperiment]|
 
 [createExperiment]: /chapters/对内容的CRUD/createExperiment.md
@@ -116,7 +116,7 @@
 - Truth
 
 | **C** | **R** | **U** | **D** |
-|---------|--------|---------|--------|
+|:-------:|:-------:|:-------:|:-------:|
 |[createTruth]|[findTruthById]|[editTruth]|[deleteTruth]|
 
 [createTruth]: /chapters/对内容的CRUD/createTruth.md
@@ -127,7 +127,7 @@
 - Danger
 
 | **C** | **R** | **U** | **D** |
-|---------|--------|---------|--------|
+|:-------:|:-------:|:-------:|:-------:|
 |[createDanger]|[findDangerById]|[editDanger]|[deleteDanger]|
 
 [createDanger]: /chapters/对内容的CRUD/createDanger.md
@@ -138,7 +138,7 @@
 ## 站内搜索
 
 | **Experiment** | **Truth** | **Goods** | 
-|---------|--------|---------|
+|:-------:|:-------:|:-------:|
 |[findExperimentByTag]|[findTruthByTag]|[findGoodsByTag]|
 
 [findExperimentByTag]: /chapters/站内搜索/findExperimentByTag.md
@@ -146,7 +146,7 @@
 [findGoodsByTag]: /chapters/站内搜索/findGoodsByTag.md
 
 | **Danger** | **Viedo** | **Audio** | 
-|---------|--------|---------|
+|:-------:|:-------:|:-------:|
 |[findDangerByTag]|[findViedoByTag]|[findAudioByTag]|
 
 [findDangerByTag]: /chapters/站内搜索/findDangerByTag.md
