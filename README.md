@@ -83,25 +83,6 @@
 
 ## 对广告的CRUD
 
-- CREATE
-  - [功能3](/chapters/对广告的CRUD/功能3.md)
-- READ
-- UPDATE
-- DELETE
-
-## 对内容的CRUD
-
-- Experiment
-| **C** | **R** | **U** | **D** |
-|---------|--------|---------|--------|
-|[createExperiment]|[findExperimentById]|[editExperiment]|[deleteExperiment]|
-
-[createExperiment]: /chapters/对内容的CRUD/createExperiment.md
-[findExperimentById]: /chapters/对内容的CRUD/findExperimentById.md
-[editExperiment]: /chapters/对内容的CRUD/editExperiment.md
-[deleteExperiment]: /chapters/对内容的CRUD/deleteExperiment.md
-
-- Advertisement
 | **C** | **R** | **U** | **D** |
 |---------|--------|---------|--------|
 |[createAdvertisement]|[findAdvertisementById]|[editAdvertisement]|[deleteAdvertisement]|
@@ -111,7 +92,32 @@
 [editAdvertisement]: /chapters/对内容的CRUD/editAdvertisement.md
 [deleteAdvertisement]: /chapters/对内容的CRUD/deleteAdvertisement.md
 
+## 对内容的CRUD
+
+- Experiment
+
+| **C** | **R** | **U** | **D** |
+|---------|--------|---------|--------|
+|[createExperiment]|[findExperimentById]|[editExperiment]|[deleteExperiment]|
+
+[createExperiment]: /chapters/对内容的CRUD/createExperiment.md
+[findExperimentById]: /chapters/对内容的CRUD/findExperimentById.md
+[editExperiment]: /chapters/对内容的CRUD/editExperiment.md
+[deleteExperiment]: /chapters/对内容的CRUD/deleteExperiment.md
+
+- Truth
+
+| **C** | **R** | **U** | **D** |
+|---------|--------|---------|--------|
+|[createTruth]|[findTruthById]|[editTruth]|[deleteTruth]|
+
+[createTruth]: /chapters/对内容的CRUD/createTruth.md
+[findTruthById]: /chapters/对内容的CRUD/findTruthById.md
+[editTruth]: /chapters/对内容的CRUD/editTruth.md
+[deleteTruth]: /chapters/对内容的CRUD/deleteTruth.md
+
 - Danger
+
 | **C** | **R** | **U** | **D** |
 |---------|--------|---------|--------|
 |[createDanger]|[findDangerById]|[editDanger]|[deleteDanger]|
