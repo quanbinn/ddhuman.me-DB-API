@@ -74,7 +74,7 @@
   
 - **Update**
 
-| Password | Cellphone | 
+| **Update:**Password | **Update:**Cellphone | 
 |---------|--------|
 |[changePassword]|[addCellphone]|
 |[forgotPassword]|[verifyPhonenumber]|
