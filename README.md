@@ -71,10 +71,8 @@
 [logout]: /chapters/对用户的CRUD/logout.md
 [findUserByUsername]: /chapters/对用户的CRUD/findUserByUsername.md
 [findUserByPhonenumber]: /chapters/对用户的CRUD/findUserByPhonenumber.md
-  
-- **Update**
 
-| **Update:**Password | **Update:**Cellphone | 
+| Update:Password | Update:Cellphone | 
 |---------|--------|
 |[changePassword]|[addCellphone]|
 |[forgotPassword]|[verifyPhonenumber]|
