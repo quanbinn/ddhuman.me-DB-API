@@ -95,10 +95,10 @@
 |---------|--------|---------|--------|
 |[createAdvertisement]|[findAdvertisementById]|[editAdvertisement]|[deleteAdvertisement]|
 
-[createAdvertisement]: /chapters/对内容的CRUD/createAdvertisement.md
-[findAdvertisementById]: /chapters/对内容的CRUD/findAdvertisementById.md
-[editAdvertisement]: /chapters/对内容的CRUD/editAdvertisement.md
-[deleteAdvertisement]: /chapters/对内容的CRUD/deleteAdvertisement.md
+[createAdvertisement]: /chapters/对广告的CRUD/createAdvertisement.md
+[findAdvertisementById]: /chapters/对广告的CRUD/findAdvertisementById.md
+[editAdvertisement]: /chapters/对广告的CRUD/editAdvertisement.md
+[deleteAdvertisement]: /chapters/对广告的CRUD/deleteAdvertisement.md
 
 ## 对内容的CRUD
 
@@ -136,7 +136,22 @@
 [deleteDanger]: /chapters/对内容的CRUD/deleteDanger.md
 
 ## 站内搜索
-- [功能3](/chapters/站内搜索/功能3.md)
+
+| **Experiment** | **Truth** | **Goods** | 
+|---------|--------|---------|
+|[findExperimentByTag]|[findTruthByTag]|[findGoodsByTag]|
+
+[findExperimentByTag]: /chapters/站内搜索/findExperimentByTag.md
+[findTruthByTag]: /chapters/站内搜索/findTruthByTag.md
+[findGoodsByTag]: /chapters/站内搜索/findGoodsByTag.md
+
+| **Danger** | **Viedo** | **Audio** | 
+|---------|--------|---------|
+|[findDangerByTag]|[findViedoByTag]|[findAudioByTag]|
+
+[findDangerByTag]: /chapters/站内搜索/findDangerByTag.md
+[findViedoByTag]: /chapters/站内搜索/findViedoByTag.md
+[findAudioByTag]: /chapters/站内搜索/findAudioByTag.md
 
 ## 推荐系统
 
