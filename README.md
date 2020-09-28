@@ -69,7 +69,7 @@
 |[changePassword]|[addCellphone]|
 |[forgotPassword]|[verifyPhonenumber]|
 |[resetPassword] |					 |
-|[setPassword]   |						 |					 
+|[setPassword]   |					 |					 
 |[sendResetPasswordEmail]|			 |
 
 [changePassword]: /chapters/对用户的CRUD/changePassword.md
@@ -82,6 +82,7 @@
 [verifyPhonenumber]: /chapters/对用户的CRUD/verifyPhonenumber.md
 
 ## 对广告的CRUD
+
 - CREATE
   - [功能3](/chapters/对广告的CRUD/功能3.md)
 - READ
@@ -89,17 +90,41 @@
 - DELETE
 
 ## 对内容的CRUD
-- CREATE
-  - [功能2](/chapters/对内容的CRUD/功能2.md)
-- READ
-- UPDATE
-- DELETE
+
+- Experiment
+| **C** | **R** | **U** | **D** |
+|---------|--------|---------|--------|
+|[createExperiment]|[findExperimentById]|[editExperiment]|[deleteExperiment]|
+
+[createExperiment]: /chapters/对内容的CRUD/createExperiment.md
+[findExperimentById]: /chapters/对内容的CRUD/findExperimentById.md
+[editExperiment]: /chapters/对内容的CRUD/editExperiment.md
+[deleteExperiment]: /chapters/对内容的CRUD/deleteExperiment.md
+
+- Advertisement
+| **C** | **R** | **U** | **D** |
+|---------|--------|---------|--------|
+|[createAdvertisement]|[findAdvertisementById]|[editAdvertisement]|[deleteAdvertisement]|
+
+[createAdvertisement]: /chapters/对内容的CRUD/createAdvertisement.md
+[findAdvertisementById]: /chapters/对内容的CRUD/findAdvertisementById.md
+[editAdvertisement]: /chapters/对内容的CRUD/editAdvertisement.md
+[deleteAdvertisement]: /chapters/对内容的CRUD/deleteAdvertisement.md
+
+- Danger
+| **C** | **R** | **U** | **D** |
+|---------|--------|---------|--------|
+|[createDanger]|[findDangerById]|[editDanger]|[deleteDanger]|
+
+[createDanger]: /chapters/对内容的CRUD/createDanger.md
+[findDangerById]: /chapters/对内容的CRUD/findDangerById.md
+[editDanger]: /chapters/对内容的CRUD/editDanger.md
+[deleteDanger]: /chapters/对内容的CRUD/deleteDanger.md
 
 ## 站内搜索
 - [功能3](/chapters/站内搜索/功能3.md)
 
 ## 推荐系统
-- [功能3](/chapters/推荐搜索/功能3.md)
 
 ## 常用页面
 - [首页](/chapters/常用页面/首页.md)
