@@ -96,6 +96,7 @@
 
 - Experiment
 
+| Experiment |
 | **C** | **R** | **U** | **D** |
 |---------|--------|---------|--------|
 |[createExperiment]|[findExperimentById]|[editExperiment]|[deleteExperiment]|
