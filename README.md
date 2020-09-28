@@ -23,7 +23,7 @@
 ## 数据库操作
 
 | Databases | Collections | **CRUD** | 
-|---------|--------|--------|
+|:-------:|:-------:|:-------:|
 |[create a database]|[create a collection]|[JSON->BSON]|
 |[drop a database]|[drop a collection]|[insert(document)]|
 |				  |					  |[find((query))]|
@@ -43,7 +43,7 @@
 [remove((query))]: /chapters/数据库操作/remove((query)).md
 
 | Shell Methods | **Image/Multimedia** | 
-|---------|--------|
+|:-------:|:-------:|
 |[ObjectId]|[Image]|
 |		   |[Video]|
 |		   |[Audio]|
@@ -57,7 +57,7 @@
 ## 对用户的CRUD
 
 | **Create** | **Read** | 
-|---------|--------|
+|:-------:|:-------:|
 |[createUser]|[loggingIn]|
 |			 |[logout]|
 |			 |[findUserByUsername]|
@@ -73,7 +73,7 @@
 [findUserByPhonenumber]: /chapters/对用户的CRUD/findUserByPhonenumber.md
 
 | Update:Password | Update:Cellphone | 
-|---------|--------|
+|:-------:|:-------:|
 |[changePassword]|[addCellphone]|
 |[forgotPassword]|[verifyPhonenumber]|
 |[resetPassword] |					 |
