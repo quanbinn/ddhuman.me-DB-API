@@ -55,22 +55,31 @@
 [Audio]: /chapters/数据库操作/Audio.md
 
 ## 对用户的CRUD
-- CREATE
-  - [createUser](/chapters/对用户的CRUD/createUser.md)
-- READ
-  - [loggingIn](/chapters/对用户的CRUD/loggingIn.md)
-  - [logout](/chapters/对用户的CRUD/logout.md)
-  - [findUserByUsername](/chapters/对用户的CRUD/findUserByUsername.md)
-  - [findUserByPhonenumber](/chapters/对用户的CRUD/findUserByPhonenumber.md)
-- UPDATE
 
-| UPDATE              || 
+| **Create** | **Read** | 
+|---------|--------|
+|[createUser]|[loggingIn]|
+|			 |[logout]|
+|			 |[findUserByUsername]|
+|			 |[findUserByPhonenumber]|			 
+
+
+
+[createUser]: /chapters/对用户的CRUD/createUser.md
+
+[loggingIn]: /chapters/对用户的CRUD/loggingIn.md
+[logout]: /chapters/对用户的CRUD/logout.md
+[findUserByUsername]: /chapters/对用户的CRUD/findUserByUsername.md
+[findUserByPhonenumber]: /chapters/对用户的CRUD/findUserByPhonenumber.md
+  
+- **Update**
+
 | Password | Cellphone | 
 |---------|--------|
 |[changePassword]|[addCellphone]|
 |[forgotPassword]|[verifyPhonenumber]|
 |[resetPassword] |					 |
-|[setPassword]   |					 |					 
+|[setPassword]   |					 |			 
 |[sendResetPasswordEmail]|			 |
 
 [changePassword]: /chapters/对用户的CRUD/changePassword.md
