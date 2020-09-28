@@ -64,6 +64,7 @@
   - [findUserByPhonenumber](/chapters/对用户的CRUD/findUserByPhonenumber.md)
 - UPDATE
 
+| UPDATE              || 
 | Password | Cellphone | 
 |---------|--------|
 |[changePassword]|[addCellphone]|
