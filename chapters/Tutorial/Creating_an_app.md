@@ -25,5 +25,8 @@ $ npm run dev
 ## Reference
 
 1. [eggjs.org快速入门](https://eggjs.org/zh-cn/intro/quickstart.html)
+2. [Vue.js：Introduction](https://vuejs.org/v2/guide/)
+3. [koa.js](https://koajs.com/)
+3. [Node.js](https://nodejs.org/api/http.html#http_server_listen_port_hostname_backlog_callback)
 
 
