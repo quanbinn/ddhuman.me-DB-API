@@ -1,18 +1,22 @@
 # Creating an app
 
-1. ```bash
+1. 
+```bash
 $ mkdir ddhumanMe && cd ddhumanMe
 ```
 
-2.```bash
+2.
+```bash
 $ npm init egg --type=simple
 ```
 
-3. ```bash
+3. 
+```bash
 $ npm install
 ```
 
-4. ```bash
+4. 
+```bash
 $ npm run dev
 ```
 
