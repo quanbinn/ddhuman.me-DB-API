@@ -1,4 +1,4 @@
-# DDHuman.me API
+# DDHuman.me MongoDB's API
 
 ## 典型Documents
 
